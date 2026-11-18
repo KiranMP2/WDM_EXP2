@@ -1,6 +1,6 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE: 18 NOVEMBER 2026
-### NAME : Bhoopesh P
+### NAME : KIRAN MP
 ### Register Number: 212224230123
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
